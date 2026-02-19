@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+.body{
+    margin: 0;
+    padding: 0;
+}
+.image-logo{
+    height: 100px;
+}
+
+.mass-body{
+    background-image: url('https://tse3.mm.bing.net/th/id/OIP.JdtWFQYdUfsDDUTf6KSS9QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3');
+    height: 205vh;
+}
+
+.nav-link.item-nav{
+    color:white;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+.nav-link.item-nav:hover{
+    color: rgb(55, 168, 55);
+}
+
+.anchor{
+    margin-left: auto;
+}
+
+.box{
+    color: white;
+    height: 50px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.box-heading{
+    font-size: 50px;
+    font-weight: 500;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.box-image{
+    height: 300px;
+}
+
+.box-content{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.body-section{
+    height: 20vh;
+}
+
+.ser-content{
+    height: 100vh;
+}
+
+.abt-h1{
+    padding-top: 250px;
+    padding-left: 320px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+}
+
+.abt-p{
+    color: white;
+    padding-left: 320px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+}
+
+.services {
+    padding: 50px;
+    text-align: center;
+}
+.ser-h1 {
+    color: rgb(59, 211, 59);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+}
+.services-sub-cont {
+    display: flex;
+    flex-direction: row;
+
+}
+.services-card {
+    border: 2px rgb(47, 168, 47) solid;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+}
+.sc-h1 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+.sc-p {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.contact {
+    text-align: center;
+}
+
+.con-h1{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+}
+
+.contact-info {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+.test-logo {
+    height: 50px;
+}
+.social-icon-img {
+    height: 100px;
+    padding: 20px;
+}
+
+.footer-p{
+    color: white;
+    text-align: center;
+}
